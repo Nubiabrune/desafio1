@@ -1,17 +1,12 @@
-# Sistema para Gerenciamento de Aluguel de Automóveis
+# Sistema de Locadora de Veículos
 
-Este sistema foi desenvolvido como trabalho para a matéria de Administração e Gerência de Redes de Computadores da Universidade Federal de Itajubá UNIFEI - COM241.
-
-#### Dupla:
-** Flávio Mota Gomes -- 2018005379 **
-
-** Rafael Antunes Vieira -- 2018000980 **
 ## Descrição do projeto:
-A ideia central deste desenvolvimento consiste em uma aplicação web desenvolvida a partir de HTML, CSS, JavaScript e PHP, que permite o controle de alocação de recursos em uma empresa de aluguel de veículos.
-O sistema permite login de funcionários para administração de veículos - o que inclui critérios, editá-los, tirá-los de circulação temporariamente para irem ao escritório - além de permitir cadastro ao público para reservar os veículos desejados no período desejado. Para isso, criou-se um servidor de banco de dados e liberou-se o acesso a esse banco na internet para permitir a inserção desses pedidos por qualquer pessoa que acesse a plataforma.
-O objetivo desta atividade foi conhecer
-diferentes ambientes de redes de informática, explorando de forma prática os conceitos visíveis na sala de aula.
-Este relatório está estruturado em: Instalação de aplicações, onde é descrito o processo de instalação do Apache, do PostgreSQL e do PHP; Configuração do servidor de Banco de Dados, onde há discrepâncias sobre o servidor, o modelo relacional e o mapeamento do modelo relacional para as tabelas do banco; Conexão entre aplicação e banco; Interfaces, onde são apresentadas características de aplicação e algumas de suas telas; Segurança, onde são feitas algumas considerações sobre segurança na aplicação desenvolvida. Por fim, são apresentadas as considerações finais.
+O desenvolvimento deste projeto consiste em um sistema que simule o gerenciamento de uma locadora de veículos, incluindo cadastro de clientes, gerenciamento de veículos, e controle de locações. Este documento detalha como o sitema deve funcionar para atender às necessidades e espectativas dos usuários e clientes.  
+O sistema permite login dos usuários para que consiga administrar todo cadastro dos veículos e clientes, incluindo todo gerenciamento e controle da frota através das informações do veículo como: tipo, marca, modelo, ano, status de disponibilidade: alugado ou disponivel, histórico de locações e relatórios basicos sobre a situção atual da frota. Permita que o cliente se cadastre para reservar os veículos de acordo com sua necessidade e período desejado.
+
+
+
+
 ## Instalação de aplicativos:
 Nos tópicos a seguir, são apresentadas algumas considerações sobre as aplicações de configuração do sistema. Neles, estão descritas informações sobre a instalação e configuração dessas aplicações, a saber: Apache, PostgreSQL e PHP.
 ### Instalação do apache:
