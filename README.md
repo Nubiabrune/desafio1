@@ -9,14 +9,24 @@ O sistema permite login dos usuários para que consiga administrar todo cadastro
 
 
 Nubia Brune
-[@nubia](https://github.com/Nubiabrune/)
+[@nubia](https://github.com/Nubiabrune)
 
-THIERRY MÉDIO
-KAIQUE SANTANA DE ALMEIDA
-JOÃO PEDRO KOZOROSKI ALVES MAFRA
-PATRÍCIA DA SILVA CHAVES
-ALESSANDRA BULKA DE RAMOS
-NUBIA BRUNE DE ALMEIDA 
+Thierry Médio
+[@thierry](https://github.com/Thierry200320)
+
+Alessandra Bulka de Ramos
+[@Alessandra](https://github.com/alebulka)
+
+Kaique Santa de Almeida
+[@kaique](https://github.com/KaiqueDev-code)
+
+Patrícia da Silva Chaves 
+[@patrícia](https://github.com/PatriciaCh1)
+
+João Pedro K. A. Mafra
+[@joão](https://github.com/JoaoPKAMafra)
+
+
 
 
 
