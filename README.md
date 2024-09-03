@@ -11,6 +11,13 @@ O sistema permite login dos usuários para que consiga administrar todo cadastro
 Nubia Brune
 [@nubia](https://github.com/Nubiabrune/)
 
+THIERRY MÉDIO
+KAIQUE SANTANA DE ALMEIDA
+JOÃO PEDRO KOZOROSKI ALVES MAFRA
+PATRÍCIA DA SILVA CHAVES
+ALESSANDRA BULKA DE RAMOS
+NUBIA BRUNE DE ALMEIDA 
+
 
 
 
